@@ -1,0 +1,38 @@
+<body ng-app="ExampleApp">
+    <!-- attach the ExampleController to our main content -->
+    <div ng-controller="MainCtrl" class="container">
+        <h1>Angular + Elasticsearch</h1>
+
+        <!-- if there is an error, display its message -->
+        <div ng-if="error" class="alert alert-danger" role="alert">{{error.message}}</div>
+        <form>
+            <label for="origin">Origin:</label><input type="text" ng-model="origin" name="origin" />
+            <label for="destination">Destination:</label><input type="text" ng-model="destination" name="destination"/>
+            <input type="submit" ng-click="update()" value="Query matches" />
+        </form>
+        
+
+        
+        <!-- if clusterState is available, display it as formatted json -->
+        <div ng-if="result" class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Search Results</h3>
+            </div>
+            
+            
+
+            <div class="panel-body">
+                <pre>{{clusterState | json}}</pre>
+                
+                <div class="col-md-6">
+                    {{origin}}
+                </div>
+                <div class="col-md-6">
+                    {{destination}}
+                </div>
+                <div class="table-striped" ng-repeat="hit in result">
+                    <div class="row">{{hit._source.nLCDESC}}</div>
+                </div>
+            </div>
+        </div>
+    </div>

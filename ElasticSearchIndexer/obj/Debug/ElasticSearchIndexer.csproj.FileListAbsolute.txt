@@ -1,0 +1,23 @@
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\ElasticSearchIndexer.exe.config
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\CORPUSExtract.json
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\ElasticSearchIndexer.exe
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\ElasticSearchIndexer.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\Elasticsearch.Net.dll
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\Nest.dll
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\Newtonsoft.Json.dll
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\Elasticsearch.Net.xml
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\Nest.xml
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\bin\Debug\Newtonsoft.Json.xml
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\obj\Debug\ElasticSearchIndexer.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\obj\Debug\ElasticSearchIndexer.exe
+c:\users\anthony\documents\visual studio 2013\Projects\ElasticSearchIndexer\ElasticSearchIndexer\obj\Debug\ElasticSearchIndexer.pdb
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\bin\Debug\CORPUSExtract.json
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\bin\Debug\ElasticSearchIndexer.exe.config
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\bin\Debug\ElasticSearchIndexer.exe
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\bin\Debug\ElasticSearchIndexer.pdb
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\bin\Debug\Newtonsoft.Json.dll
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\bin\Debug\Elasticsearch.Net.xml
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\bin\Debug\Nest.xml
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\obj\Debug\ElasticSearchIndexer.csprojResolveAssemblyReference.cache
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\obj\Debug\ElasticSearchIndexer.exe
+C:\Sites\elasticsearchtestapp\ElasticSearchIndexer\obj\Debug\ElasticSearchIndexer.pdb
